@@ -1,0 +1,12 @@
+expense-tracker/
+├── node_modules/
+├── public/
+│   └── index.html
+├── routes/
+│   └── api.js
+├── utils/
+│   ├── auth.js
+│   └── expense.js
+├── package.json
+├── db.js
+└── index.js

@@ -1,0 +1,23 @@
+{
+  "name": "security_basics_nodejs",
+  "version": "1.0.0",
+  "description": "This repository is meant to provide hands-on experience with backend development using Node.js and Express.js. It aims to guide you through the process of setting up a basic Express.js server and creating API endpoints for user authentication, expense management, and expense calculations. By working on this project, you will gain practical knowledge in server-side scripting, API design, and routing using the powerful combination of Node.js and Express.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "mysql2": "^3.10.3"
+  }
+}
